@@ -276,6 +276,11 @@ plt.show()
 ```
 ![Gráfico Interferencia de Notas](https://github.com/Dande06/E-commerce_Olist/blob/main/grafico_analise_avaliacoes.png?raw=true)
 
+### 10. Power BI.
+Simples visualização criada no Power BI apenas para fins de demonstração. O objetivo é mostrar a estrutura de um relatório interativo com gráficos, filtros e indicadores. Vale ressaltar a tendência das notas, se trabalharmos na resolução da melhoria das entregas de produtos, fará que a avaliação melhore com o tempo
+
+![Dashboard BI](https://github.com/Dande06/E-commerce_Olist/blob/main/Olist_PowerBI.PNG)
+
 ### Conclusão.
 Este projeto evidenciou características regionais importantes no comportamento dos clientes e logística da plataforma Olist. Foi possível identificar estados com maior demanda e satisfação, além de verificar que o tempo de entrega influencia diretamente a avaliação dos clientes, reforçando a importância da eficiência logística.
 
